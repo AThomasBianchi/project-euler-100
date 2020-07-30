@@ -15,3 +15,5 @@ function findSum(num) {
   }
   return multiples.reduce((a, b) => a + b)
 }
+
+module.exports = findSum

@@ -1,0 +1,26 @@
+{
+  "name": "euler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AThomasBianchi/project-euler-100.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AThomasBianchi/project-euler-100/issues"
+  },
+  "homepage": "https://github.com/AThomasBianchi/project-euler-100#readme"
+}
